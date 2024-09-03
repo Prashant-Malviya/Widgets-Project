@@ -4,15 +4,25 @@ function AboutMe() {
   return (
     <div>
       <p className="text-lg text-gray-300">
-        Hello! I’m Dave, your sales rep here from Salesforce. I’ve been working
-        at this awesome company for 3 years now. 
+        Hello! I’m Prashant, a passionate software engineer and full-stack
+        developer with expertise in the MERN stack. I have a strong passion for
+        software development and enjoy creating innovative solutions to complex
+        problems.
         <br />
         <br />
-        I was born and raised in
-        Albany, NY& have been living in Santa Carla for the past 10 years my
-        wife Tiffany and my 4 year old twin daughters- Emma and Ella. Both of
-        them are just starting school, so my calender is usually blocked between
-        9-10 AM. This is a...
+        I have completed two internships, one in frontend development and the
+        other in full-stack development, each lasting three months. I recently
+        graduated with a degree in Computer Science in June 2024, achieving a
+        CGPA of 8.21.
+        <br />
+        <br />
+        Based in Madhya Pradesh, India, I enjoy developing web applications and
+        have a keen interest in AI development tools, which I leverage to
+        improve the quality and efficiency of my coding workflow. Additionally,
+        I am actively involved in solving problems in data structures and
+        algorithms, having tackled over 250 problems on platforms like LeetCode
+        and GeeksforGeeks.
+        <br />
       </p>
     </div>
   );
